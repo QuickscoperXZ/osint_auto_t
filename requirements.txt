@@ -1,0 +1,5 @@
+dnspython==2.7.0
+Requests==2.32.4
+trio==0.30.0
+wappalyzer==1.0.14
+xlsxwriter==3.2.5
